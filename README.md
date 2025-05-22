@@ -13,12 +13,14 @@ Predict whether customers will churn based on historical data using a machine le
 ```
 customer-churn-prediction/
 ├── customer_churn_predictor.py
-├── screenshot.png
+├── customerChurn_fig1.png
+├── customerChurn_screenshot.png
 └── README.md
 ```
 
 ## 📷 Screenshot
-![Model Output Screenshot](screenshot.png)
+![Model Graph Output](customerChurn_fig1.png)
+![Model Output Screenshot](customerChurn_screenshot.png)
 
 ## ▶️ How to Run
 1. Install dependencies:
